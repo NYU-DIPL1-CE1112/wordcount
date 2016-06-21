@@ -1,8 +1,7 @@
 # Word Count
 *Write a program that when given a phrase can count the occurrences of each word in that phrase.*
 
-For example for the input
-`"One fish, two fish, red fish, blue fish."`
+For example: `"One fish, two fish, red fish, blue fish."`
 ```
  1. 'one': 1
  2. 'fish': 4
